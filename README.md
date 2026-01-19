@@ -4,7 +4,7 @@
 ### WebShell服务端 
 - [Wolfshell](wolfshell): 原版aspx、ashx、内存马各1个脚本，AI免杀20个aspx、20个ashx，星球已提供160+免杀变种
 - [godzilla](godzilla): AI免杀20个php,20个jsp，星球已提供55+变种
-- [Chopper](chopper): aaa
+- [Chopper](chopper): AI免杀30个[ASP](chopper/asp)，6个PHP
 
   
 * Shell密码: WolfShell或wolfshell
