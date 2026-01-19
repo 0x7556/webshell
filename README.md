@@ -2,9 +2,9 @@
 
 
 ### WebShell服务端 
-- [Wolfshell](wolfshell): 原版aspx、ashx、内存马各1个脚本，AI免杀20个aspx、20个ashx，星球已提供160+免杀变种
-- [godzilla](godzilla): AI免杀20个[PHP](godzilla/php),20个[JSP](godzilla/jsp),20个[ASP](godzilla/asp),20个[ASPX](godzilla/aspx)
-- [Chopper](chopper): AI免杀菜刀30个[ASP](chopper/asp)，6个[PHP](chopper/php)，其它WebShell工具通用可连。
+- [金刚狼Wolfshell](wolfshell): 原版aspx、ashx、内存马各1个脚本，AI免杀20个aspx、20个ashx，星球已提供160+免杀变种
+- [哥斯拉Godzilla](godzilla): AI免杀20个[PHP](godzilla/php),20个[JSP](godzilla/jsp),20个[ASP](godzilla/asp),20个[ASPX](godzilla/aspx)
+- [菜刀Chopper](chopper): AI免杀菜刀30个[ASP](chopper/asp)，6个[PHP](chopper/php)，其它WebShell工具通用可连。
 
   
 * Shell密码: WolfShell或wolfshell
