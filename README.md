@@ -8,7 +8,7 @@
 
   
 * Shell密码: WolfShell或wolfshell
-* 星球提供AI一键免杀智能体工具,方便大家自行免杀
+* 星球提供AI一键免杀智能体工具,免杀效果：https://mp.weixin.qq.com/s/Yhl-wLNca-vgO3eFZXF-Uw
 
 ### WebShell客户端-管理工具
 金刚狼WolfShell: https://github.com/0x7556/wolfshell
