@@ -9,7 +9,7 @@ WolfShell: 原版aspx、ashx、内存马各1个脚本，AI免杀20个aspx、20�
 金刚狼WolfShell: https://github.com/0x7556/wolfshell
 
 
-**服务端 vs. 控制端 — 简明科普**
+### 服务端 vs. 控制端 — 简明科普
 
 经常看到很多人把“服务端”和“控制端”搞混，这里简明解释一下。
 
