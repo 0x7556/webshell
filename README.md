@@ -26,8 +26,9 @@ CodeBypass 是一款基于 AI 的免杀工具，旨在通过智能变异与语�
 
 
 ### WebShell客户端-管理工具
-金刚狼WolfShell: https://github.com/0x7556/wolfshell
-
+- 金刚狼WolfShell: https://github.com/0x7556/wolfshell
+- 哥斯拉Godzilla: https://github.com/BeichenDream/Godzilla
+- 冰蝎Behinder：https://github.com/rebeyond/Behinder
 
 ### 服务端 vs. 控制端 — 简明科普
 
