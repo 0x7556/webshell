@@ -1,7 +1,7 @@
 ## 收集各类 WebShell 服务端 
 
 
-### WebShell服务端 密码wolfshell
+### WebShell服务端 密码WolfShell或wolfshell
 - [Wolfshell](wolfshell): 原版aspx、ashx、内存马各1个脚本，AI免杀20个aspx、20个ashx，星球提供160+免杀变种，持续更新
 
 
