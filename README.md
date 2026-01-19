@@ -2,8 +2,10 @@
 
 
 ### WebShell服务端 
-- [Wolfshell](wolfshell): 原版aspx、ashx、内存马各1个脚本，AI免杀20个aspx、20个ashx，星球提供160+免杀变种，持续更新
-- [godzilla](godzilla): AI免杀20个php,20个jsp，星球提供更多，持续更新
+- [Wolfshell](wolfshell): 原版aspx、ashx、内存马各1个脚本，AI免杀20个aspx、20个ashx，星球已提供160+免杀变种
+- [godzilla](godzilla): AI免杀20个php,20个jsp，星球已提供55+变种
+- [Chopper](chopper): aaa
+
   
 * Shell密码: WolfShell或wolfshell
 * 星球提供AI一键免杀智能体工具
