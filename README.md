@@ -7,8 +7,8 @@
 
   
 * Shell密码: WolfShell或wolfshell
-* 
-### 星球数据
+
+#### 星球数据
 
 为了防止滥用被杀太快，github仅公开部份WebShell，截至2026年1月29日，星球已提供237+金刚狼WebShell服务端脚本
 
