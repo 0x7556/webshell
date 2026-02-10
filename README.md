@@ -1,6 +1,6 @@
 ## 收集各类 WebShell 服务端 
 
-[img](https://github.com/0x7556/wolfshell/blob/main/img/webshell.jpg)
+![img](https://github.com/0x7556/wolfshell/blob/main/img/webshell.jpg)
 
 ### WebShell服务端 
 - [金刚狼Wolfshell](wolfshell): aspx、ashx、内存马各1个脚本，AI免杀50个[ASPX](wolfshell/aspx)、50个[ASHX](wolfshell/ashx)、10个[MEM](wolfshell/mem)内存马
